@@ -1,0 +1,362 @@
+div#contenedor{
+	background-color: #D5D8DC;
+	width: 1345px;
+	height: 2470px;
+	margin: 0px -7px 0px -5px;
+}
+div#cabeza{
+	background-color: white;
+	width: 1345px;
+	height: 125px;
+	position: relative;
+}
+div#menu{
+	background-color: white;
+	width: 1345px;
+	height: 84px;
+	position: absolute;
+  	top: 50%;
+  	margin-top:-50px;
+
+}
+	div#logo{
+		width: 84px;
+		height: 84px;
+		padding-left: 100px;
+	}
+	div#filtros{
+		width: 307.11px;
+	 	height: 84px;
+	 	margin: -67px 0px 0px 250px;
+	}
+	table#tabla1{
+		color: #797A7A;
+	}
+	table#tabla2{
+		color: grey;
+	}
+	table#tabla1:hover{
+		color: black;
+	}
+	table#tabla2:hover{
+		color: black;
+	}
+	hr{
+		color: grey;
+	}
+	div#singUp{
+	 	width: 84px;
+	 	height: 84px;
+	 	margin: -85px 0px 0px 1150px;
+	}
+	
+div#encabezado{
+	background-color: #D5D8DC;
+	width: 1345px;
+	height: 150px;
+	display: flex;
+	justify-content: left;
+	flex-wrap: wrap;
+}
+	div#titulo{
+	background-color:#D5D8DC;
+	width: 1245px;
+	height: 90px;
+	display: flex;
+	margin: -40px 0px 0px 100px;
+	}
+	a#home{
+		color: grey;
+		margin: 0px 0px 0px 100px;
+	}
+	a#allwebsites{
+		color: grey;
+	}
+	a#home:hover{
+		color: red;
+	}
+	a#allwebsites:hover{
+		color: red;
+	}
+
+div#website{
+	background-color: #D5D8DC;
+	width: 1345px;
+	height: 600px;
+	margin: 0px 0px 0px 0px;
+}
+	div#Kamil{
+		width: 742px;
+		height: 468px;
+		margin: 0px 0px 0px 100px;
+	}
+	div#categorias{
+		background-color: white;
+		width: 742px;
+		height: 100px;
+		margin: 15px 0px 0px 100px;
+	}
+	div#wineri{
+		color: white;
+		background-color: grey;
+		width: 84px;
+		height: 28px;
+		display: flex;
+		align-content: center;
+		flex-wrap: wrap;
+		border-radius: 107px 107px 107px 107px;
+		-moz-border-radius: 107px 107px 107px 107px;
+		-webkit-border-radius: 107px 107px 107px 107px;
+		border: 0px solid #000000;
+		margin: -20px 0px 0px 100px;
+	}
+	div#food{
+		color: white;
+		background-color: grey;
+		width: 60px;
+		height: 28px;
+		display: flex;
+		align-content: center;
+		flex-wrap: wrap;
+		border-radius: 107px 107px 107px 107px;
+		-moz-border-radius: 107px 107px 107px 107px;
+		-webkit-border-radius: 107px 107px 107px 107px;
+		border: 0px solid #000000;
+		margin: -20px 0px 0px 100px;
+	}
+	div#wineri:hover{
+		background-color: red;
+	}
+	div#food:hover{
+		background-color: red;
+	}
+div#lista{
+	background-color: #D5D8DC;
+	width: 370px;
+	height: 350px;
+	margin: -599px 0px 0px 860px;
+}
+	div#uno{
+		background-color: #D5D8DC;
+		width: 370px;
+		height: 30px;
+		margin: auto;
+		display: flex;
+		align-content: center;
+		flex-wrap: wrap;
+		
+	}
+	div#dos{
+		background-color: #D5D8DC;
+		width: 370px;
+		height: 35px;
+		margin: auto;
+		display: flex;
+		justify-content: left;
+	}
+	div#tres{
+		background-color: #D5D8DC;
+		width: 370px;
+		height: 35px;
+		margin: auto;
+		display: flex;
+		justify-content: left;
+	}
+	div#cuatro{
+		background-color: #D5D8DC;
+		width: 370px;
+		height: 30px;
+		margin: auto;
+		display: flex;
+		justify-content: left;
+	}
+	div#cinco{
+		background-color: #D5D8DC;
+		width: 370px;
+		height: 40px;
+		margin: auto;
+		display: flex;
+		justify-content: left;
+	}
+	div#seis{
+		background-color: #D5D8DC;
+		width: 370px;
+		height: 30px;
+		margin: auto;
+		display: flex;
+		justify-content: left;
+	}
+
+
+	font#n{
+		color: black;
+		display: flex;
+		justify-content: left;
+		margin: 20px 0px 0px -30px;
+	}
+	font#n2{
+		color: black;
+		display: flex;
+		justify-content: left;
+		margin: 20px 0px 0px -65px;
+	}
+	font#n3{
+		color: black;
+		display: flex;
+		justify-content: left;
+		margin: 20px 0px 0px -35px;
+	}
+	font#n4{
+		color: black;
+		display: flex;
+		justify-content: left;
+		margin: 4px 0px 0px 5px;
+	}
+	font#n5{
+		color: black;
+		display: flex;
+		justify-content: left;
+		margin: 20px 0px 0px -75px;
+	}
+	font#n6{
+		color: black;
+		display: flex;
+		justify-content: left;
+		margin: 5px 0px 0px 10px;
+	}
+	font#g{
+		color: grey;
+	}
+	div#uno:hover{
+		background-color: white;
+		height: 30px;
+	}
+	div#dos:hover{
+		background-color: white;
+		height: 35px;
+	}
+	div#tres:hover{
+		background-color: white;
+		height: 35px;
+	}
+	div#cuatro:hover{
+		background-color: white;
+		height: 30px;
+	}
+	div#cinco:hover{
+		background-color: white;
+		height: 40px;
+	}
+	div#seis:hover{
+		background-color: white;
+		height: 30px;
+	}
+
+div#subencabezado{
+	color: #6D6969;
+	background-color: #D5D8DC;
+	width: 1130px;
+	height: 50px;
+	margin: 10px 0px 0px 100px;
+}
+div#paginas{
+	background-color: #D5D8DC;
+	width: 1247px;
+	height: 1500px;
+	margin: 0px 0px 0px 40px;
+}
+	table#paginas1{
+	width: 1130px;
+	height: 300px;
+	margin: -1520px 0px 0px 0px;
+	}
+	table#paginas2{
+	width: 1130px;
+	height: 300px;
+	margin: -20px 0px 0px 0px;	
+	}
+	table#paginas3{
+	width: 1130px;
+	height: 300px;
+	margin: -20px 0px 0px 0px;	
+	}
+	table#paginas4{
+	width: 1130px;
+	height: 300px;
+	margin: -20px 0px 0px 0px;	
+	}
+	table#paginas5{
+	width: 1130px;
+	height: 300px;
+	margin: -20px 0px 0px 0px;	
+	}
+
+	figure{
+		color: black;
+	}
+	figure:hover{
+		color: red;
+	}
+	font#p{
+		color: grey;
+	}
+	
+div#piePagina{
+	background-color: white;
+	width: 1350px;
+	height: -20px;
+	margin: 0px 0px 0px -5px;
+}
+	font#r{
+		color: red;
+	}
+	font#r:hover{
+		color: black;
+	}
+	dt#t{
+		color: grey;
+	}
+	font#grises{
+		color: grey;
+	}
+	a#link{
+		color: grey;
+	}
+	a#link:hover{
+		color: black;
+	}
+	div#sobre{
+		width: 300px;
+		height: 150px;
+		margin: 100px 0px -20px 100px;
+	}
+	div#Copyright{
+		width: 500px;
+		height: 40px;
+		margin: 10px 0px 0px 100px;
+	}
+	div#websites{
+		width: 300px;
+		height: 100px;
+		margin: -190px 0px 0px 400px;
+	}
+	dt#webs{
+		color: grey;
+	}
+	dt#webs:hover{
+		color: red;
+	}
+	div#informacion{
+		width: 300px;
+		height: 100px;
+		margin: -118px 0px 0px 700px;
+	}
+	div#redessociales{
+		width: 300px;
+		height: 100px;
+		margin: -118px 0px 0px 900px;
+	}
+	div#imagenes{
+		display: flex;
+		align-content: center;
+	}
